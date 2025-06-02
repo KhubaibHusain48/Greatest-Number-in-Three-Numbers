@@ -1,4 +1,4 @@
-Here’s the `README.md` content for your **Greatest of Three Numbers** program:
+
 
 ---
 
